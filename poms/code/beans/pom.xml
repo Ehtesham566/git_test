@@ -11,7 +11,7 @@
   <groupId>org.example.git_test.bean</groupId>
   <artifactId>beans</artifactId>
   <version>8.0.1</version>
-  <name>GIT_TEST Beans</name>
+  <name>GIT_TEST_CLONE_2 Beans</name>
   <properties>
     <talend.codes.package>beans</talend.codes.package>
     <maven.compiler.failOnError>${codes.compile.failOnError}</maven.compiler.failOnError>

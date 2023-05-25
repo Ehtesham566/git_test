@@ -11,7 +11,7 @@
   <groupId>org.example.git_test.code</groupId>
   <artifactId>routines</artifactId>
   <version>8.0.1</version>
-  <name>GIT_TEST Routines</name>
+  <name>GIT_TEST_CLONE_2 Routines</name>
   <properties>
     <talend.codes.package>routines</talend.codes.package>
     <maven.compiler.failOnError>${codes.compile.failOnError}</maven.compiler.failOnError>

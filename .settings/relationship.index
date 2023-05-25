@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_Uc7j0PsdEe2Zlre5tN514w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GkJPEPsdEe2Zlre5tN514w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GkJPEPsdEe2Zlre5tN514w - actor",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
